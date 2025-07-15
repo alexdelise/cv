@@ -1,0 +1,65 @@
+\documentclass[11pt,letterpaper]{moderncv}
+
+% ModernCV theme
+\moderncvtheme[blue,sans]{casual}
+
+% Character encoding and page layout
+\usepackage[utf8]{inputenc}
+\usepackage[scale=0.8]{geometry}
+\usepackage{graphicx}
+\usepackage{eurosym}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+% Custom commands
+\newcommand{\tia}[1]{\emph{#1}}
+\newcommand{\myhref}[2]{\href{#1}{#2}}
+\newcommand{\ctext}[1]{\color{sectiontitlecolor}{#1}}
+\newcommand{\notes}[1]{\vspace*{1ex}\newline \hspace*{5ex}\begin{minipage}{81ex} #1 \end{minipage}}
+\newcommand{\citeCount}[5]{}
+
+
+
+
+% Recompute layout lengths
+\recomputelengths
+
+% Personal information
+\firstname{Alexander}
+\familyname{DeLise}
+\title{Curriculum Vitae}
+
+\begin{document}
+
+\maketitle
+
+% Contact block
+\vspace{-2ex}
+\begin{minipage}[t]{0.62\textwidth}
+  \small
+  \vspace{0.25em}
+  Department of Mathematics \\
+  Department of Scientific Computing \\
+  Florida State University \\
+  Tallahassee, FL
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.36\textwidth}
+  \small
+  \vspace{0.25em}
+  \phonesymbol~+1 (813)--291--6177\\
+  \emailsymbol~\href{mailto:alex.r.delise@gmail.com}{alex.r.delise@gmail.com}\\
+  \emailsymbol~\href{mailto:ard22l@fsu.edu}{ard22l@fsu.edu}\\
+  \Mundus~\href{http://www.alexdelise.com}{www.alexdelise.com}
+\end{minipage}
+
+\vspace{2ex}
+
+\input{sections/interests.tex}
+\input{sections/education.tex}
+\input{sections/awards.tex}
+\input{sections/publications.tex}
+\input{sections/presentations.tex}
+\input{sections/service.tex}
+
+\end{document}
