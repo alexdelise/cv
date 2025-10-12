@@ -167,9 +167,6 @@ INPUT .\sections\education.tex
 INPUT .\sections\education.tex
 INPUT sections\education.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmsso10.tfm
-INPUT .\sections\awards.tex
-INPUT .\sections\awards.tex
-INPUT sections\awards.tex
 INPUT .\sections\publications.tex
 INPUT .\sections\publications.tex
 INPUT sections\publications.tex
@@ -197,12 +194,13 @@ INPUT C:\Program Files\MiKTeX\tex\latex\lm\omxlmex.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\omxlmex.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\lmex10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmss12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
 INPUT .\sections\presentations.tex
 INPUT .\sections\presentations.tex
 INPUT sections\presentations.tex
-INPUT .\sections\service.tex
-INPUT .\sections\service.tex
-INPUT sections\service.tex
+INPUT .\sections\awards.tex
+INPUT .\sections\awards.tex
+INPUT sections\awards.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\rm-lmr10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\rm-lmr8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\rm-lmr6.tfm
@@ -216,6 +214,9 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmsso9.tfm
 INPUT C:\Users\alexr\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
+INPUT .\sections\service.tex
+INPUT .\sections\service.tex
+INPUT sections\service.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmss9.tfm
 INPUT cvAlexanderDeLise.aux
 INPUT .\cvAlexanderDeLise.out
@@ -228,6 +229,8 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss17.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss17.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmsso10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmsso10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmsso9.pfb
