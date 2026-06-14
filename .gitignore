@@ -22,3 +22,6 @@ paper-blx.bib
 *~
 *.swp
 *.tmp
+
+/papers/
+
